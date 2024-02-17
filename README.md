@@ -1,2 +1,2 @@
-# Pokemon
+# Pokemon API
 Describe about pokemons
